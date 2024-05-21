@@ -1,3 +1,5 @@
-# darkrevenge04.github.io
-# example text 1
-example text 2
+'''
+## darkrevenge04 Github landing page
+'''
+# Welcome the the website
+###example text 2
