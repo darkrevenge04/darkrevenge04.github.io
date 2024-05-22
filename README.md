@@ -1,5 +1,5 @@
 
-# darkrevenge04 Github landing page
+# James Taylor's Github landing page
 
 ## Welcome the the website
 ```
