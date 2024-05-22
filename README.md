@@ -6,6 +6,5 @@
 The following website will be peroiducally updated to included potential ideas and published projects to act a interactive CV
 ```
 ### Visit the github page
-```
-[Dark reveneg04](https://github.com/darkrevenge04)
-```
+  [Dark reveng04](https://github.com/darkrevenge04)
+
